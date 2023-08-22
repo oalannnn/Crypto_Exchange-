@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+
+imagens/
+README.md
+
+# Diretório node_modules
+node_modules/
+
+# Arquivo de configuração npm
+npm-debug.log*
+package-lock.json
+
+# Arquivos temporários
+*.swp
+.DS_Store
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Arquivos de build
+/build
+
+# Arquivos de dependências do Yarn
+.yarn
+.yarn-cache
+
+# Dependências PnP do Yarn
+.pnp.*
+.pnp.js
+
+# Arquivos de cache
+.cache
